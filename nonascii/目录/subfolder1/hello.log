@@ -1,0 +1,8 @@
+Fri Apr  2 15:19:04 2021 StartUp
+Fri Apr  2 15:19:04 2021 Error Code = 1: An error occurred while initializing., Internal Error: Activation library was not found at the path and name specified. This is likely to be because the path has been incorrectly specified either in the call to flxActCommonLibraryInit, in the preptool configuration file, or in the libpath environment variable.
+Fri Apr  2 16:08:44 2021 StartUp
+Fri Apr  2 16:08:44 2021 Error Code = 1: An error occurred while initializing., Internal Error: Activation library was not found at the path and name specified. This is likely to be because the path has been incorrectly specified either in the call to flxActCommonLibraryInit, in the preptool configuration file, or in the libpath environment variable.
+Fri Apr  2 16:17:59 2021 StartUp
+Fri Apr  2 16:17:59 2021 Error Code = 1: An error occurred while initializing., Internal Error: Activation library was not found at the path and name specified. This is likely to be because the path has been incorrectly specified either in the call to flxActCommonLibraryInit, in the preptool configuration file, or in the libpath environment variable.
+Fri Apr  2 16:26:27 2021 StartUp
+Fri Apr  2 16:26:27 2021 Error Code = 1: An error occurred while initializing., Internal Error: Activation library was not found at the path and name specified. This is likely to be because the path has been incorrectly specified either in the call to flxActCommonLibraryInit, in the preptool configuration file, or in the libpath environment variable.

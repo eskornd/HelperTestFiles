@@ -1,0 +1,2 @@
+Shanghai
+file://localhost/Users/nexu/p4/nexu_l_app21A1/depot/Helper/Private/TestFiles/foo.txt
